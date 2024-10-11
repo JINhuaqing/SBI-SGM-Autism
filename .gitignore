@@ -3,3 +3,4 @@ results/
 sbi-logs/
 .ipynb_checkpoints/
 __pycache__/
+figs/
